@@ -6,15 +6,17 @@ explorations / prototypes as we build out the main
 
 🇺🇸
 
-## Run
+### Run
 
 ```
 npm install
 npm start
 ```
 
-## Deploy
+### Build and Deploy
 
 ```
 npm deploy
 ```
+
+Then go [here](https://federalist-proxy.app.cloud.gov/site/18f/cms-hitech-sandbox/) 💥
